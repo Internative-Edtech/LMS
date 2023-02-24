@@ -1,0 +1,53 @@
+.mainDiv{
+    /* width: 98%; */
+ display: flex;
+ word-break: break-all;
+ margin-top: 20px;
+}
+.div1{
+    width: 80%;
+    word-break: break-all;
+}
+.ass{
+    text-decoration: underline #5e17eb;
+    color: #5e17eb;
+
+}
+.stdass{
+    width: 80%;
+    word-wrap: break-word;
+    margin: auto;
+}
+.submintdiv{
+    width: 80%;
+    word-wrap: break-word;
+    margin: auto;
+}
+.disc{
+    text-align: center;
+}
+.AdminAss{
+    width: 80%;
+    word-wrap: break-word;
+    margin: auto;
+}
+.AdminTask{
+    width: 80%;
+    word-wrap: break-word;
+    margin: auto;
+}
+.lecdiv{
+    width: 80%;
+    word-wrap: break-word;
+    margin: auto;
+}
+.studass{
+    width: 80%;
+    word-wrap: break-word;
+    margin: auto;
+}
+.attendence_div{
+    width: 80%;
+    word-wrap: break-word;
+    margin: auto;
+}
